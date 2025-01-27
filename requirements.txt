@@ -1,0 +1,11 @@
+sentence-transformers==2.2.2
+langchaing
+flask
+pypdf
+python-dotenv
+pinecode[grpc]
+langchaing-pinecode
+langchaing_community
+langchaing_openai
+langchaing_experimental
+-e .
